@@ -1,4 +1,4 @@
-# 💰 FindTracker AI
+# 💰 FinTracker AI
 
 A modern, AI-powered expense tracking web application built with Next.js 15, featuring intelligent categorization, real-time analytics, and personalized financial insights.
 
